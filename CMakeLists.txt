@@ -11,4 +11,5 @@ add_executable(CSES_SpeedRun main.cpp
         "Introductory Problems/Permutations.cpp"
         "Introductory Problems/Number Spiral.cpp"
         "Introductory Problems/Two Knights.cpp"
-        "Introductory Problems/Two Sets.cpp")
+        "Introductory Problems/Two Sets.cpp"
+        "Introductory Problems/Bit Strings.cpp")
