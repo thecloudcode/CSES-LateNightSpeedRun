@@ -1,15 +1,18 @@
 # ninja log v5
-5	784	7498715255582682	build.ninja	386e6ea19c27fa7a
+5	784	7498717113441674	build.ninja	386e6ea19c27fa7a
 51	168	7498644310565707	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
 54	181	7498648816084788	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
-4144	4335	7498711014545104	CSES_SpeedRun.exe	1d75a26321b2966a
+4584	4811	7498716238651805	CSES_SpeedRun.exe	b44f0e48e6f9c2b0
 37	143	7498652401615447	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
 21	87	7498654688562114	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
 32	162	7498695007600073	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Permutations.cpp.obj	86df22338b11884
 23	97	7498660793072791	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj	1aa7f6cd251a1542
 31	138	7498698102738139	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Number_Spiral.cpp.obj	b0397f620e1f0098
 16	165	7498710534050297	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Two_Knights.cpp.obj	bed727deaceb6bb5
-21	4143	7498711012719754	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Two_Sets.cpp.obj	a4c26fe7631ecfe
 34	145	7498716192047479	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Two_Sets.cpp.obj	a4c26fe7631ecfe
 44	4583	7498716236436948	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Bit_Strings.cpp.obj	84bd1d9afdab1a98
-4584	4811	7498716238651805	CSES_SpeedRun.exe	b44f0e48e6f9c2b0
+25	131	7498718167491616	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Bit_Strings.cpp.obj	84bd1d9afdab1a98
+36	3819	7498718204342831	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Trailing_Zeros.cpp.obj	ba1d427436ce321c
+3819	4036	7498718206410958	CSES_SpeedRun.exe	a14ea7a5e6de47c9
+30	3755	7498718313264199	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Trailing_Zeros.cpp.obj	ba1d427436ce321c
+3756	3963	7498718315276863	CSES_SpeedRun.exe	a14ea7a5e6de47c9
