@@ -115,6 +115,12 @@ build CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Trailing_Zeros.cpp.obj:
   OBJECT_DIR = CMakeFiles\CSES_SpeedRun.dir
   OBJECT_FILE_DIR = CMakeFiles\CSES_SpeedRun.dir\Introductory_Problems
 
+build CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Coin_Piles.cpp.obj: CXX_COMPILER__CSES_SpeedRun_unscanned_Debug C$:/Users/badal/CLionProjects/CSES-SpeedRun/Introductory$ Problems/Coin$ Piles.cpp || cmake_object_order_depends_target_CSES_SpeedRun
+  DEP_FILE = CMakeFiles\CSES_SpeedRun.dir\Introductory_Problems\Coin_Piles.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CSES_SpeedRun.dir
+  OBJECT_FILE_DIR = CMakeFiles\CSES_SpeedRun.dir\Introductory_Problems
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CSES_SpeedRun
@@ -123,7 +129,7 @@ build CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Trailing_Zeros.cpp.obj:
 #############################################
 # Link the executable CSES_SpeedRun.exe
 
-build CSES_SpeedRun.exe: CXX_EXECUTABLE_LINKER__CSES_SpeedRun_Debug CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Permutations.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Number_Spiral.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Two_Knights.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Two_Sets.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Bit_Strings.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Trailing_Zeros.cpp.obj
+build CSES_SpeedRun.exe: CXX_EXECUTABLE_LINKER__CSES_SpeedRun_Debug CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Permutations.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Number_Spiral.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Two_Knights.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Two_Sets.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Bit_Strings.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Trailing_Zeros.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Coin_Piles.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CSES_SpeedRun.dir
