@@ -19,7 +19,7 @@ using pbds = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node
 // p.erase(p.lower_bound({ 2, 0 }));
 #define fast  ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
 #define yes cout<<"YES"<<endl;
-#define lol int
+#define lol long long int
 #define ulol unsigned long long;
 #define dlol long double
 #define no cout<<"NO"<<endl;
@@ -120,7 +120,11 @@ lol getRandomNumber(lol l, lol r) { return uniform_int_distribution<lol>(l, r)(r
 
 void solve() {
     lol n; cin>>n;
-
+    cout<<n<<" ";
+    while(n!=1) {
+        if(n&1) n = n*3+1; else n /= 2;
+        cout<<n<<" ";
+    }
 }
 
 int main() {

@@ -55,11 +55,11 @@ build CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj: CXX_COMPILER__CSES_SpeedRun_uns
   OBJECT_DIR = CMakeFiles\CSES_SpeedRun.dir
   OBJECT_FILE_DIR = CMakeFiles\CSES_SpeedRun.dir
 
-build CMakeFiles/CSES_SpeedRun.dir/Weird_Algorithm.cpp.obj: CXX_COMPILER__CSES_SpeedRun_unscanned_Debug C$:/Users/badal/CLionProjects/CSES-SpeedRun/Weird$ Algorithm.cpp || cmake_object_order_depends_target_CSES_SpeedRun
-  DEP_FILE = CMakeFiles\CSES_SpeedRun.dir\Weird_Algorithm.cpp.obj.d
+build CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj: CXX_COMPILER__CSES_SpeedRun_unscanned_Debug C$:/Users/badal/CLionProjects/CSES-SpeedRun/Introductory$ Problems/Weird$ Algorithm.cpp || cmake_object_order_depends_target_CSES_SpeedRun
+  DEP_FILE = CMakeFiles\CSES_SpeedRun.dir\Introductory_Problems\Weird_Algorithm.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CSES_SpeedRun.dir
-  OBJECT_FILE_DIR = CMakeFiles\CSES_SpeedRun.dir
+  OBJECT_FILE_DIR = CMakeFiles\CSES_SpeedRun.dir\Introductory_Problems
 
 
 # =============================================================================
@@ -69,7 +69,7 @@ build CMakeFiles/CSES_SpeedRun.dir/Weird_Algorithm.cpp.obj: CXX_COMPILER__CSES_S
 #############################################
 # Link the executable CSES_SpeedRun.exe
 
-build CSES_SpeedRun.exe: CXX_EXECUTABLE_LINKER__CSES_SpeedRun_Debug CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Weird_Algorithm.cpp.obj
+build CSES_SpeedRun.exe: CXX_EXECUTABLE_LINKER__CSES_SpeedRun_Debug CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CSES_SpeedRun.dir

@@ -4,4 +4,4 @@ project(CSES_SpeedRun)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(CSES_SpeedRun main.cpp
-        "Weird Algorithm.cpp")
+        "Introductory Problems/Weird Algorithm.cpp")

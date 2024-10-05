@@ -1,0 +1,7 @@
+# ninja log v5
+5	784	7498644305401708	build.ninja	386e6ea19c27fa7a
+51	168	7498644310565707	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
+58	5303	7498644361879472	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
+5307	5617	7498644364907055	CSES_SpeedRun.exe	b16c9e50e2a730e6
+34	3850	7498645198367994	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
+3851	4066	7498645200454184	CSES_SpeedRun.exe	b16c9e50e2a730e6
