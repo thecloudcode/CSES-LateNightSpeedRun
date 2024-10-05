@@ -1,14 +1,13 @@
 # ninja log v5
-5	784	7498664330428312	build.ninja	386e6ea19c27fa7a
+5	784	7498696505699063	build.ninja	386e6ea19c27fa7a
 51	168	7498644310565707	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
 54	181	7498648816084788	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
-3264	3398	7498662786640186	CSES_SpeedRun.exe	589cb5104b03286f
+3085	3228	7498695623187769	CSES_SpeedRun.exe	5d31b472a90ef29
 37	143	7498652401615447	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
 21	87	7498654688562114	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
-10	3264	7498662785340555	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Permutations.cpp.obj	86df22338b11884
-23	97	7498660793072791	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj	1aa7f6cd251a1542
 32	162	7498695007600073	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Permutations.cpp.obj	86df22338b11884
-38	3006	7498695036040613	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Number_Spiral.cpp.obj	b0397f620e1f0098
-3006	3185	7498695037787615	CSES_SpeedRun.exe	5d31b472a90ef29
+23	97	7498660793072791	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj	1aa7f6cd251a1542
 8	3084	7498695621771639	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Number_Spiral.cpp.obj	b0397f620e1f0098
-3085	3228	7498695623187769	CSES_SpeedRun.exe	5d31b472a90ef29
+31	138	7498698102738139	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Number_Spiral.cpp.obj	b0397f620e1f0098
+39	3178	7498698133104664	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Two_Knights.cpp.obj	bed727deaceb6bb5
+3178	3350	7498698134798828	CSES_SpeedRun.exe	cff302182e35aa29
