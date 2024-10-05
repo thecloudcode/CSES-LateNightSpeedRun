@@ -73,6 +73,12 @@ build CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj: CXX_
   OBJECT_DIR = CMakeFiles\CSES_SpeedRun.dir
   OBJECT_FILE_DIR = CMakeFiles\CSES_SpeedRun.dir\Introductory_Problems
 
+build CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj: CXX_COMPILER__CSES_SpeedRun_unscanned_Debug C$:/Users/badal/CLionProjects/CSES-SpeedRun/Introductory$ Problems/Increasing$ Array.cpp || cmake_object_order_depends_target_CSES_SpeedRun
+  DEP_FILE = CMakeFiles\CSES_SpeedRun.dir\Introductory_Problems\Increasing_Array.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CSES_SpeedRun.dir
+  OBJECT_FILE_DIR = CMakeFiles\CSES_SpeedRun.dir\Introductory_Problems
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CSES_SpeedRun
@@ -81,7 +87,7 @@ build CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj: CXX_
 #############################################
 # Link the executable CSES_SpeedRun.exe
 
-build CSES_SpeedRun.exe: CXX_EXECUTABLE_LINKER__CSES_SpeedRun_Debug CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj
+build CSES_SpeedRun.exe: CXX_EXECUTABLE_LINKER__CSES_SpeedRun_Debug CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CSES_SpeedRun.dir

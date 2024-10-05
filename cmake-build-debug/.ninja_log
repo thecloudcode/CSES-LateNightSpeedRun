@@ -1,11 +1,16 @@
 # ninja log v5
-5	784	7498651563649696	build.ninja	386e6ea19c27fa7a
+5	784	7498653656034715	build.ninja	386e6ea19c27fa7a
 51	168	7498644310565707	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
 54	181	7498648816084788	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
-5610	5757	7498650381192159	CSES_SpeedRun.exe	37a1825617462d85
-45	5609	7498650379708769	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
-37	143	7498652401615447	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
-47	4266	7498652442838057	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
-4267	4480	7498652444815235	CSES_SpeedRun.exe	d2d747d807a00980
-38	3628	7498652584604074	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
 3629	3793	7498652586189434	CSES_SpeedRun.exe	d2d747d807a00980
+37	143	7498652401615447	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
+38	3628	7498652584604074	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
+21	87	7498654688562114	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
+27	2873	7498654716400138	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj	1aa7f6cd251a1542
+2873	3005	7498654717685707	CSES_SpeedRun.exe	f35dd2fef42d6876
+31	2908	7498654851523103	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj	1aa7f6cd251a1542
+2908	3026	7498654852656696	CSES_SpeedRun.exe	f35dd2fef42d6876
+27	2682	7498655174455442	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj	1aa7f6cd251a1542
+2683	2799	7498655175593638	CSES_SpeedRun.exe	f35dd2fef42d6876
+27	3032	7498656093153614	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj	1aa7f6cd251a1542
+3032	3275	7498656095533451	CSES_SpeedRun.exe	f35dd2fef42d6876
