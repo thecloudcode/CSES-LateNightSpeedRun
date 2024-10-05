@@ -8,4 +8,5 @@ add_executable(CSES_SpeedRun main.cpp
         "Introductory Problems/Missing Number.cpp"
         "Introductory Problems/Repitions.cpp"
         "Introductory Problems/Increasing Array.cpp"
-        "Introductory Problems/Permutations.cpp")
+        "Introductory Problems/Permutations.cpp"
+        "Introductory Problems/Number Spiral.cpp")
