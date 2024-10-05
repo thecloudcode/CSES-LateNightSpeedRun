@@ -1,18 +1,11 @@
 # ninja log v5
-5	784	7498647724130678	build.ninja	386e6ea19c27fa7a
+5	784	7498651563649696	build.ninja	386e6ea19c27fa7a
 51	168	7498644310565707	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
-34	3850	7498645198367994	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
-3851	4066	7498645200454184	CSES_SpeedRun.exe	b16c9e50e2a730e6
 54	181	7498648816084788	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
-65	5127	7498648865574150	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
-5128	5296	7498648867173910	CSES_SpeedRun.exe	37a1825617462d85
-12	4376	7498649092354468	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
-4377	4557	7498649094090770	CSES_SpeedRun.exe	37a1825617462d85
-54	5001	7498649659279079	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
-5002	5158	7498649660826175	CSES_SpeedRun.exe	37a1825617462d85
-47	4941	7498649991695389	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
-4942	5104	7498649993284176	CSES_SpeedRun.exe	37a1825617462d85
-47	4262	7498650174165215	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
-4262	4412	7498650175633907	CSES_SpeedRun.exe	37a1825617462d85
-45	5609	7498650379708769	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
 5610	5757	7498650381192159	CSES_SpeedRun.exe	37a1825617462d85
+45	5609	7498650379708769	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
+37	143	7498652401615447	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
+47	4266	7498652442838057	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
+4267	4480	7498652444815235	CSES_SpeedRun.exe	d2d747d807a00980
+38	3628	7498652584604074	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
+3629	3793	7498652586189434	CSES_SpeedRun.exe	d2d747d807a00980
