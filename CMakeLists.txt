@@ -17,4 +17,5 @@ add_executable(CSES_SpeedRun main.cpp
         "Introductory Problems/Coin Piles.cpp"
         "Introductory Problems/Palindrome Reorder.cpp"
         "Introductory Problems/Gray Code.cpp"
-        "Introductory Problems/Tower of Hanoi.cpp")
+        "Introductory Problems/Tower of Hanoi.cpp"
+        "Introductory Problems/Creating Strings.cpp")
