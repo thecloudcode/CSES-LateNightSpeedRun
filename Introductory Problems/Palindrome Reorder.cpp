@@ -119,21 +119,32 @@
 // /*--------------------------------------------Solve------------------------------------------------------*/
 //
 // void solve() {
-//     lol a,b; cin>>a>>b;
-//     lol c = min(a,b);
-//     lol t = max(a,b) - c;
-//     if((a+b)%3==0 and 2*a>=b and 2*b>=a) {
-//         yes;
-//     }else {
-//         no;
+//     string x; cin>>x;
+//     unordered_map<char,lol>map;
+//     for(char i: x) map[i]++;
+//     string a = ""; string b = ""; bool flag = true; string extra = "";
+//     for(auto &i: map) {
+//         if(i.second%2==0) {
+//             a.append(i.second / 2, i.first);
+//             b.insert(0, i.second / 2, i.first);
+//         }else {
+//             if(flag) {
+//                 flag = false;
+//                 extra.append(i.second, i.first);
+//             }else {
+//                 cout<<"NO SOLUTION"<<endl;
+//                 return;
+//             }
+//         }
 //     }
+//     cout<<a<<extra<<b<<endl;
 // }
 //
 // int main() {
 //     fast;
 //     auto start1 = high_resolution_clock::now();
 //     lol t = 1;
-//     cin >> t;
+//     // cin >> t;
 //     while (t--) solve();
 //     auto stop1 = high_resolution_clock::now();
 //     auto duration = duration_cast<microseconds>(stop1 - start1);

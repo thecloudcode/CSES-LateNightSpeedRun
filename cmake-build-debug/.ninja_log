@@ -1,8 +1,8 @@
 # ninja log v5
-5	784	7498720211041079	build.ninja	386e6ea19c27fa7a
+5	784	7499110960044765	build.ninja	386e6ea19c27fa7a
 51	168	7498644310565707	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
 54	181	7498648816084788	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
-3756	3963	7498718315276863	CSES_SpeedRun.exe	a14ea7a5e6de47c9
+5642	5885	7498745174847847	CSES_SpeedRun.exe	aefc16811bb8d1ee
 37	143	7498652401615447	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
 21	87	7498654688562114	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
 32	162	7498695007600073	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Permutations.cpp.obj	86df22338b11884
@@ -10,14 +10,10 @@
 31	138	7498698102738139	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Number_Spiral.cpp.obj	b0397f620e1f0098
 16	165	7498710534050297	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Two_Knights.cpp.obj	bed727deaceb6bb5
 34	145	7498716192047479	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Two_Sets.cpp.obj	a4c26fe7631ecfe
-30	3755	7498718313264199	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Trailing_Zeros.cpp.obj	ba1d427436ce321c
-25	131	7498718167491616	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Bit_Strings.cpp.obj	84bd1d9afdab1a98
 19	129	7498721462716879	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Trailing_Zeros.cpp.obj	ba1d427436ce321c
-27	3794	7498721499354094	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Coin_Piles.cpp.obj	9dc1e0dec3e34bad
-3795	3997	7498721501301658	CSES_SpeedRun.exe	7257b1825fe09dfa
-44	4515	7498737143934638	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Coin_Piles.cpp.obj	9dc1e0dec3e34bad
-4516	4727	7498737145965420	CSES_SpeedRun.exe	7257b1825fe09dfa
-38	3866	7498737499045890	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Coin_Piles.cpp.obj	9dc1e0dec3e34bad
-3867	4044	7498737500760415	CSES_SpeedRun.exe	7257b1825fe09dfa
-14	5548	7498740212226713	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Coin_Piles.cpp.obj	9dc1e0dec3e34bad
-5549	5767	7498740214307412	CSES_SpeedRun.exe	7257b1825fe09dfa
+25	131	7498718167491616	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Bit_Strings.cpp.obj	84bd1d9afdab1a98
+29	140	7498743645478992	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Coin_Piles.cpp.obj	9dc1e0dec3e34bad
+37	5641	7498745172538720	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Palindrome_Reorder.cpp.obj	4540a9740c4327b5
+78	210	7499117277553316	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Palindrome_Reorder.cpp.obj	4540a9740c4327b5
+84	6782	7499117343262939	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Gray_Code.cpp.obj	26053650ec01ee69
+6782	7223	7499117347616380	CSES_SpeedRun.exe	2c024e2d869f8faa

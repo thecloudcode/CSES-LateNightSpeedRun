@@ -63,7 +63,9 @@
 				8,
 				9,
 				10,
-				11
+				11,
+				12,
+				13
 			]
 		}
 	],
@@ -111,7 +113,9 @@
 				8,
 				9,
 				10,
-				11
+				11,
+				12,
+				13
 			]
 		}
 	],
@@ -187,6 +191,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Introductory Problems/Coin Piles.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Introductory Problems/Palindrome Reorder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Introductory Problems/Gray Code.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

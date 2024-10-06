@@ -14,4 +14,6 @@ add_executable(CSES_SpeedRun main.cpp
         "Introductory Problems/Two Sets.cpp"
         "Introductory Problems/Bit Strings.cpp"
         "Introductory Problems/Trailing Zeros.cpp"
-        "Introductory Problems/Coin Piles.cpp")
+        "Introductory Problems/Coin Piles.cpp"
+        "Introductory Problems/Palindrome Reorder.cpp"
+        "Introductory Problems/Gray Code.cpp")
