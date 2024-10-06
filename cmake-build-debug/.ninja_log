@@ -1,8 +1,8 @@
 # ninja log v5
-5	784	7499110960044765	build.ninja	386e6ea19c27fa7a
+5	784	7499128442769658	build.ninja	386e6ea19c27fa7a
 51	168	7498644310565707	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
 54	181	7498648816084788	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
-5642	5885	7498745174847847	CSES_SpeedRun.exe	aefc16811bb8d1ee
+6782	7223	7499117347616380	CSES_SpeedRun.exe	2c024e2d869f8faa
 37	143	7498652401615447	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
 21	87	7498654688562114	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
 32	162	7498695007600073	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Permutations.cpp.obj	86df22338b11884
@@ -13,7 +13,12 @@
 19	129	7498721462716879	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Trailing_Zeros.cpp.obj	ba1d427436ce321c
 25	131	7498718167491616	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Bit_Strings.cpp.obj	84bd1d9afdab1a98
 29	140	7498743645478992	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Coin_Piles.cpp.obj	9dc1e0dec3e34bad
-37	5641	7498745172538720	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Palindrome_Reorder.cpp.obj	4540a9740c4327b5
 78	210	7499117277553316	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Palindrome_Reorder.cpp.obj	4540a9740c4327b5
 84	6782	7499117343262939	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Gray_Code.cpp.obj	26053650ec01ee69
-6782	7223	7499117347616380	CSES_SpeedRun.exe	2c024e2d869f8faa
+21	82	7499130004231062	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Gray_Code.cpp.obj	26053650ec01ee69
+26	2887	7499130032270796	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Tower_of_Hanoi.cpp.obj	21591747ad2f45a1
+2888	3015	7499130033521000	CSES_SpeedRun.exe	b2653bbba74addab
+8	2735	7499133396379591	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Tower_of_Hanoi.cpp.obj	21591747ad2f45a1
+2736	2915	7499133398134869	CSES_SpeedRun.exe	b2653bbba74addab
+31	2971	7499133824289040	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Tower_of_Hanoi.cpp.obj	21591747ad2f45a1
+2972	3122	7499133825754761	CSES_SpeedRun.exe	b2653bbba74addab
