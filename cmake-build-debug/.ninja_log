@@ -1,10 +1,10 @@
 # ninja log v5
-5	784	7499139994085543	build.ninja	386e6ea19c27fa7a
+5	784	7499145435872059	build.ninja	386e6ea19c27fa7a
 51	168	7498644310565707	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
 54	181	7498648816084788	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
-2972	3122	7499133825754761	CSES_SpeedRun.exe	b2653bbba74addab
+139	410	7499141203050400	CSES_SpeedRun.exe	260b921f6ef11931
 37	143	7498652401615447	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
-31	2971	7499133824289040	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Tower_of_Hanoi.cpp.obj	21591747ad2f45a1
+43	138	7499141200369002	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Tower_of_Hanoi.cpp.obj	21591747ad2f45a1
 21	87	7498654688562114	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
 32	162	7498695007600073	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Permutations.cpp.obj	86df22338b11884
 23	97	7498660793072791	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Increasing_Array.cpp.obj	1aa7f6cd251a1542
@@ -17,5 +17,14 @@
 78	210	7499117277553316	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Palindrome_Reorder.cpp.obj	4540a9740c4327b5
 21	82	7499130004231062	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Gray_Code.cpp.obj	26053650ec01ee69
 25	3434	7499140996466873	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Creating_Strings.cpp.obj	efce7d5692b6b654
-43	138	7499141200369002	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Tower_of_Hanoi.cpp.obj	21591747ad2f45a1
-139	410	7499141203050400	CSES_SpeedRun.exe	260b921f6ef11931
+31	104	7499147963186243	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Creating_Strings.cpp.obj	efce7d5692b6b654
+37	2887	7499147990995250	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Apple_Division.cpp.obj	3e46c7aa4bd91455
+2888	3046	7499147992543625	CSES_SpeedRun.exe	32f979556bfdd2dc
+34	2629	7499148352109164	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Apple_Division.cpp.obj	3e46c7aa4bd91455
+2630	2746	7499148353253781	CSES_SpeedRun.exe	32f979556bfdd2dc
+17	2947	7499148749470411	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Apple_Division.cpp.obj	3e46c7aa4bd91455
+2948	3068	7499148750619991	CSES_SpeedRun.exe	32f979556bfdd2dc
+42	3094	7499155049109645	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Apple_Division.cpp.obj	3e46c7aa4bd91455
+3095	3235	7499155050488777	CSES_SpeedRun.exe	32f979556bfdd2dc
+17	2490	7499156156125277	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Apple_Division.cpp.obj	3e46c7aa4bd91455
+2491	2603	7499156157215423	CSES_SpeedRun.exe	32f979556bfdd2dc
