@@ -23,4 +23,5 @@ add_executable(CSES_SpeedRun main.cpp
         "Introductory Problems/Chessboard and Queens.cpp"
         "Introductory Problems/Digit Queries.cpp"
         "Dynamic Programming/Dice Combinations.cpp"
+        "Dynamic Programming/Minimizing Coins.cpp"
 )
