@@ -20,4 +20,7 @@ add_executable(CSES_SpeedRun main.cpp
         "Introductory Problems/Tower of Hanoi.cpp"
         "Introductory Problems/Creating Strings.cpp"
         "Introductory Problems/Apple Division.cpp"
+        "Introductory Problems/Chessboard and Queens.cpp"
+        "Introductory Problems/Digit Queries.cpp"
+        "Dynamic Programming/Dice Combinations.cpp"
 )

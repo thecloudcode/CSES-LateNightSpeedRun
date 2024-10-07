@@ -19,7 +19,7 @@
 // // p.erase(p.lower_bound({ 2, 0 }));
 // #define fast  ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
 // #define yes cout<<"YES"<<endl;
-// #define lol long long int
+// #define lol int
 // #define ulol unsigned long long;
 // #define dlol long double
 // #define no cout<<"NO"<<endl;
@@ -117,26 +117,9 @@
 // } //O(sqrt(N))
 // lol getRandomNumber(lol l, lol r) { return uniform_int_distribution<lol>(l, r)(rng); } // line 3
 // /*--------------------------------------------Solve------------------------------------------------------*/
+//
 // void solve() {
-//     lol n; cin>>n;
-//     vector<lol>x(n); lol s = 0;
-//     lol ans = 0;
-//     for(lol i=0;i<n;i++) {
-//         cin>>x[i];
-//         s+=x[i];
-//     }
-//     for(lol i=0;i<1<<n;i++) {
-//         lol cs = 0;
-//         for(lol j=0;j<n;j++) {
-//             if(i>>j&1) {
-//                 cs+=x[j];
-//             }
-//         }
-//         if(cs<=s/2) {
-//             ans = max(ans, cs);
-//         }
-//     }
-//     cout<<s-2*ans<<endl;
+//
 // }
 //
 // int main() {
