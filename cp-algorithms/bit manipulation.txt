@@ -35,5 +35,4 @@ bool isPowerOfTwo( int n, int k ){
     return ( n & ( powerOf2 - 1 ) ) == 0;
 }
 
-
-
+----

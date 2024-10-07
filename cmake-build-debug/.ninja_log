@@ -1,5 +1,5 @@
 # ninja log v5
-5	784	7499882964773814	build.ninja	386e6ea19c27fa7a
+5	784	7500112336416388	build.ninja	386e6ea19c27fa7a
 39	139	7499845659658939	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
 54	181	7498648816084788	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
 2050	2198	7499855131204213	CSES_SpeedRun.exe	c1507671175e4193
@@ -22,3 +22,28 @@
 34	132	7499834696225097	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Digit_Queries.cpp.obj	df041a19a49670cf
 39	150	7499849501857472	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Dice_Combinations.cpp.obj	2a520ce56398a4fe
 25	2049	7499855129757386	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
+36	150	7500114132327205	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
+44	2631	7500114157121014	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
+2632	3315	7500114163858589	CSES_SpeedRun.exe	22b9781811f4fbf7
+37	2448	7500114324539769	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
+2449	2631	7500114326343534	CSES_SpeedRun.exe	22b9781811f4fbf7
+35	2258	7500114533622377	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
+2259	2405	7500114535041840	CSES_SpeedRun.exe	22b9781811f4fbf7
+57	3122	7500116192471463	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
+46	4087	7500116202101675	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
+42	122	7500116837056984	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
+123	289	7500116838649370	CSES_SpeedRun.exe	22b9781811f4fbf7
+30	2501	7500117077316587	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
+2502	2799	7500117080296498	CSES_SpeedRun.exe	22b9781811f4fbf7
+30	2273	7500117731979963	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
+2274	2417	7500117733384778	CSES_SpeedRun.exe	22b9781811f4fbf7
+11	2247	7500118374528426	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
+2248	2407	7500118376080533	CSES_SpeedRun.exe	22b9781811f4fbf7
+36	2705	7500120007607241	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
+2706	2890	7500120009444696	CSES_SpeedRun.exe	22b9781811f4fbf7
+46	2743	7500122157375330	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
+35	3420	7500122164144420	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
+43	125	7500122372057461	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
+126	292	7500122373646734	CSES_SpeedRun.exe	22b9781811f4fbf7
+36	2670	7500125250220592	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
+2671	2854	7500125251987378	CSES_SpeedRun.exe	22b9781811f4fbf7
