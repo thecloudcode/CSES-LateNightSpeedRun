@@ -1,0 +1,39 @@
+Positive Numbers (both signed and unsigned) are represented in the form of their binary digits, but
+negative numbers are represented in the form of Two's Compliment
+
+unsigned int unsigned_number = 13 // 0b1101
+int positive_signed_number = 13 // 0b1101
+int negative_signed_number = -13 // 0b1111'1111'1111'1111'1111'1111'1111'0011
+
+// CPUs are faster in manipulating these bits and these operations
+// DP & Combinatrics : Bit Manipulation is used to find and picked and notpicked case
+// On a CPU, bit operators are as fast as an addtion sign : & | ^ ~
+
+---- Checking if the number is odd----------------------------------------------------------------------------------------
+n & 1 == 1
+
+---- Checking if the number is even---------------------------------------------------------------------------------------
+n & 1 == 0
+
+---- Setting the xth bit in the number------------------------------------------------------------------------------------
+n | ( 1 << x )
+
+---- Flipping the xth bit in the number-----------------------------------------------------------------------------------
+n ^ ( 1 << x )
+
+---- Clearing the xth bit in the number-----------------------------------------------------------------------------------
+n & ~ ( 1 << x )
+
+---- Checking if a bit is set---------------------------------------------------------------------------------------------
+bool is_set( int n, int x ){
+    return (n >> x) & 1;
+}
+
+---- Check is a number is divisible by a power of 2-----------------------------------------------------------------------
+bool isPowerOfTwo( int n, int k ){
+    int powerOf2 = 1 << k;
+    return ( n & ( powerOf2 - 1 ) ) == 0;
+}
+
+
+

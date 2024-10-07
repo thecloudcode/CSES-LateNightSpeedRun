@@ -1,8 +1,8 @@
 # ninja log v5
-5	784	7499847314333499	build.ninja	386e6ea19c27fa7a
+5	784	7499882964773814	build.ninja	386e6ea19c27fa7a
 39	139	7499845659658939	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
 54	181	7498648816084788	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
-140	310	7499845661312145	CSES_SpeedRun.exe	c9efb9bcb0077556
+2050	2198	7499855131204213	CSES_SpeedRun.exe	c1507671175e4193
 37	143	7498652401615447	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
 43	138	7499141200369002	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Tower_of_Hanoi.cpp.obj	21591747ad2f45a1
 21	87	7498654688562114	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
@@ -20,23 +20,5 @@
 48	194	7499377170786267	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Apple_Division.cpp.obj	3e46c7aa4bd91455
 59	198	7499377170803190	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Chessboard_and_Queens.cpp.obj	5c890bd0ac110204
 34	132	7499834696225097	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Digit_Queries.cpp.obj	df041a19a49670cf
-48	3203	7499845565621184	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Dice_Combinations.cpp.obj	2a520ce56398a4fe
 39	150	7499849501857472	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Dice_Combinations.cpp.obj	2a520ce56398a4fe
-49	3167	7499849532001647	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
-3167	3336	7499849533627238	CSES_SpeedRun.exe	c1507671175e4193
-36	3057	7499850861207180	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
-3058	3219	7499850862771313	CSES_SpeedRun.exe	c1507671175e4193
-46	2536	7499850999192633	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
-2537	2694	7499851000695557	CSES_SpeedRun.exe	c1507671175e4193
-41	3363	7499851732368206	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
-3364	3531	7499851733959244	CSES_SpeedRun.exe	c1507671175e4193
-35	2557	7499852572184706	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
-2557	2711	7499852573658379	CSES_SpeedRun.exe	c1507671175e4193
-40	2874	7499853186293752	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
-2875	3044	7499853187904406	CSES_SpeedRun.exe	c1507671175e4193
-30	2666	7499854368953897	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
-2667	2823	7499854370507232	CSES_SpeedRun.exe	c1507671175e4193
-5	1859	7499854599578708	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
-1860	1974	7499854600679076	CSES_SpeedRun.exe	c1507671175e4193
 25	2049	7499855129757386	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
-2050	2198	7499855131204213	CSES_SpeedRun.exe	c1507671175e4193
