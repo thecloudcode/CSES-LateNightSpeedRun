@@ -25,4 +25,8 @@ add_executable(CSES_SpeedRun main.cpp
         "Dynamic Programming/Dice Combinations.cpp"
         "Dynamic Programming/Minimizing Coins.cpp"
         "Dynamic Programming/Coin Combinations I.cpp"
+        "Dynamic Programming/Coin Combinatrics II.cpp"
+        "Dynamic Programming/Removing Digits.cpp"
+        "Dynamic Programming/Removing Digits.cpp"
+        "Dynamic Programming/Removing Digits.cpp"
 )
