@@ -1,0 +1,15 @@
+---- Sieve of Eratosthenes -----------------------------------------------------------------------------------------------
+int n;
+vector<bool>isPrime(n+1, True);
+isPrime[0] = isPrime[1] = False
+for(int i=2;i<=n;i++){
+    if( isPrime[i] && (long long)i*i<=n ){
+        for( int j=i*i; j<=n; j+=i ){
+            is_prime[j] = False;
+        }
+    }
+}
+
+Space : O(n) and Time : O(n log log n)
+// Because of that there is a certain overhead when you read or write bits with a vector<bool>, and quite often using a vector<char> (which uses 1 byte for each entry, so 8x the amount of memory) is faster.
+// A benchmark (link) shows, that using a vector<bool> is between 1.4x and 1.7x faster than using a vector<char>.
