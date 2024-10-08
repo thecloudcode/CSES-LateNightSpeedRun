@@ -35,4 +35,42 @@ bool isPowerOfTwo( int n, int k ){
     return ( n & ( powerOf2 - 1 ) ) == 0;
 }
 
-----
+---- Check if a number is a power of 2------------------------------------------------------------------------------------
+bool isPowerOf2(unsigned int n){
+    return n && !(n & (n - 1));
+}
+
+---- Clear the right-most set bit-----------------------------------------------------------------------------------------
+return n & (n - 1);
+
+---- Count number of set bits-----Brian Kernighan's Algorithm-------------------------------------------------------------
+int count(int n){
+    int count = 0;
+    while(n){
+        n = n & ( n - 1 );
+        count++;
+    }
+    return count;
+}
+
+---- Count the number of set bits upto n ---------------------------------------------------------------------------------
+---- For numbers : 2^x from 1 to 2 ^ (x-1) : x * 2 ^ (x-1) set bits --------------------------------------------------------------------
+int countSetBits(int n){
+    int count = 0;
+    while( n>0 ){
+        int x = bit_width(n) - 1;
+        n -= 1 << x;
+        count += x << (x-1);
+    }
+    return count;
+}
+
+---- Clearing all trailing zeros -----------------------------------------------------------------------------------------
+n & ( n + 1 )
+
+---- Sets the last cleared bit -------------------------------------------------------------------------------------------
+n | ( n + 1 )
+
+---- Extracts the last set bit -------------------------------------------------------------------------------------------
+n & -n
+

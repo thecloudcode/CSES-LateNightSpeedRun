@@ -29,4 +29,6 @@ add_executable(CSES_SpeedRun main.cpp
         "Dynamic Programming/Removing Digits.cpp"
         "Dynamic Programming/Removing Digits.cpp"
         "Dynamic Programming/Removing Digits.cpp"
+        "Dynamic Programming/Grid Paths.cpp"
+        "Dynamic Programming/Book Shop.cpp"
 )
