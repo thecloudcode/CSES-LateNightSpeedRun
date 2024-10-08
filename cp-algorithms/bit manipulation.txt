@@ -1,3 +1,11 @@
+**---------------------**
+has_single_bit : checks if the number is a power of two
+bit_ceil / bit_floor : round up/down to the next power of 2
+rotl / rotr : rotate the bits in the number
+countl_zero / countr_zero / countl_zero / countr_one : count the leading trailing zeros or ones
+popcount : count the number of set bits
+**---------------------**
+
 Positive Numbers (both signed and unsigned) are represented in the form of their binary digits, but
 negative numbers are represented in the form of Two's Compliment
 
