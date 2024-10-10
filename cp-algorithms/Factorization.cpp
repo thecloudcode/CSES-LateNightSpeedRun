@@ -19,7 +19,7 @@ vector<lol> trial_division(lol n) {
 
 int main() {
     lol n; cin>>n;
-    vector<lol> factorization = trial_division()(n);
+    vector<lol> factorization = trial_division(n);
     for(auto &i: factorization) {
         cout<<i<<endl;
     }
