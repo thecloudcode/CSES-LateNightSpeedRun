@@ -13,3 +13,5 @@ for(int i=2;i<=n;i++){
 Space : O(n) and Time : O(n log log n)
 // Because of that there is a certain overhead when you read or write bits with a vector<bool>, and quite often using a vector<char> (which uses 1 byte for each entry, so 8x the amount of memory) is faster.
 // A benchmark (link) shows, that using a vector<bool> is between 1.4x and 1.7x faster than using a vector<char>.
+
+---- Segemented Sieve ----------------------------------------------------------------------------------------------------

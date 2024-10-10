@@ -1,0 +1,21 @@
+---- Linear Sieve--------------------------------------------------------------------------------------------------
+const int N = 1e7;
+vector<int> lr(N);
+vector<int> prime;
+
+for(int i=2;i<=N;i++){
+    if(lr[i] == 0){
+        lr[i] = i;
+        prime.push_back(lr[i]);
+    }
+    for(int j=0;i*prime[j]<=N;j++){
+        lr[i*prime[j]] = prime[j];
+        if(lr[i]==prime[j]){
+            break;
+        }
+    }
+}
+
+Time Complexity: O(N) better than Sieve O(n log log n)
+But it is worse than segmented sieve, and the space complexity is much worse as well
+

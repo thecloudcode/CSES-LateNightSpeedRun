@@ -34,4 +34,8 @@ add_executable(CSES_SpeedRun main.cpp
         "Dynamic Programming/Array Description.cpp"
         "Dynamic Programming/Counting Towers.cpp"
         "Dynamic Programming/Edit Distance.cpp"
+        "Dynamic Programming/Rectangle Cutting.cpp"
+        "Dynamic Programming/Money Sums.cpp"
+        "Graph/Striver/Number of Provinces.cpp"
+        cp-algorithms/Factorization.cpp
 )

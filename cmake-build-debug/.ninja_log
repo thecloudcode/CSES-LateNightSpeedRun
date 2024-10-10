@@ -1,8 +1,8 @@
 # ninja log v5
-43	531	7501048742231424	build.ninja	386e6ea19c27fa7a
+43	531	7502476349896081	build.ninja	386e6ea19c27fa7a
 21	92	7501019849180537	CMakeFiles/CSES_SpeedRun.dir/main.cpp.obj	39f0f874a167060c
 54	181	7498648816084788	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Weird_Algorithm.cpp.obj	4e70f886555e5fa4
-1805	1923	7501022027064197	CSES_SpeedRun.exe	ac9d78b51f4d6b6a
+1731	1883	7501086384520234	CSES_SpeedRun.exe	a4b7780e5fb0292b
 37	143	7498652401615447	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Missing_Number.cpp.obj	176eaafb80bc3902
 21	87	7498654688562114	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Repitions.cpp.obj	95c73e410545564f
 60	182	7500548952080951	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinatrics_II.cpp.obj	fb3e603a1a443fa
@@ -22,19 +22,17 @@
 48	194	7499377170786267	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Apple_Division.cpp.obj	3e46c7aa4bd91455
 59	198	7499377170803190	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Chessboard_and_Queens.cpp.obj	5c890bd0ac110204
 34	132	7499834696225097	CMakeFiles/CSES_SpeedRun.dir/Introductory_Problems/Digit_Queries.cpp.obj	df041a19a49670cf
+21	108	7501083798452149	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Rectangle_Cutting.cpp.obj	56065972143c98
 39	150	7499849501857472	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Dice_Combinations.cpp.obj	2a520ce56398a4fe
 36	150	7500114132327205	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Minimizing_Coins.cpp.obj	bc4eab81c68f314c
 42	142	7500517157453658	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Coin_Combinations_I.cpp.obj	f98ed83bdc92f71d
 32	104	7500574171915874	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Grid_Paths.cpp.obj	85630f205c16b1f4
 44	211	7500979749060916	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Book_Shop.cpp.obj	50a8479fadfd98a2
 28	113	7501006521037064	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Array_Description.cpp.obj	5f78507a642a8cef
-23	1804	7501022025910123	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Counting_Towers.cpp.obj	2bce54383c19d2db
 18	115	7501052388066952	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Counting_Towers.cpp.obj	2bce54383c19d2db
-25	1866	7501052405564478	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Edit_Distance.cpp.obj	9b4892735ee232c0
-1866	2020	7501052407060759	CSES_SpeedRun.exe	f58f38562fb53c18
-23	1985	7501052467474667	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Edit_Distance.cpp.obj	9b4892735ee232c0
-1986	2112	7501052468688068	CSES_SpeedRun.exe	f58f38562fb53c18
-29	1868	7501053775824715	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Edit_Distance.cpp.obj	9b4892735ee232c0
-1868	1996	7501053777055655	CSES_SpeedRun.exe	f58f38562fb53c18
-17	1821	7501055496872947	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Edit_Distance.cpp.obj	9b4892735ee232c0
-1821	1977	7501055498388984	CSES_SpeedRun.exe	f58f38562fb53c18
+26	106	7501061266931734	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Edit_Distance.cpp.obj	9b4892735ee232c0
+20	1730	7501086383026216	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Money_Sums.cpp.obj	436d6c260d605104
+22	127	7502478710776191	CMakeFiles/CSES_SpeedRun.dir/Dynamic_Programming/Money_Sums.cpp.obj	436d6c260d605104
+28	129	7502478710766193	CMakeFiles/CSES_SpeedRun.dir/Graph/Striver/Number_of_Provinces.cpp.obj	8ab9833fb5bf5735
+32	1789	7502478727419968	CMakeFiles/CSES_SpeedRun.dir/cp-algorithms/Factorization.cpp.obj	45ada295985985c4
+1790	2309	7502478732541644	CSES_SpeedRun.exe	2ba9c9c5af5d8fde
